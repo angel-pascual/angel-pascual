@@ -1,4 +1,4 @@
-# 👋 Hola, soy Ángel Pascual
+# 👋 Hola, soy Angel Pascual
 
 🎓 Estudiante de **Ingeniería Electrónica** (etapa avanzada)  
 📍 Lima, Perú  
